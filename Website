@@ -1,0 +1,15 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+<title>James' Website</title>
+</head>
+
+<body>
+<h1>The website of James</h1>
+<em>hi im james im learning to become a computer science</em>
+<img src=AlexPhil.png>
+<p><a href=https://github.com/jdoucette826/>Here is my github account</a></p>
+</body>
+
+</html>
